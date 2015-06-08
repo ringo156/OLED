@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<blockRegMap version="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cypress.com/xsd/cyblockregmap cyblockregmap.xsd" xmlns="http://cypress.com/xsd/cyblockregmap">
+  <block name="DB_6" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="DB_3" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="OLED_1" BASE="0x0" SIZE="0x0" desc="" visible="true">
+    <register name="OLED_1_CONTROL_REG" address="0x647D" bitWidth="8" desc="" />
+  </block>
+  <block name="DB_7" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="DB_4" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="DB_5" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="E" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="RW" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="RS" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="DB_2" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="DB_1" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+  <block name="DB_0" BASE="0x0" SIZE="0x0" desc="" visible="true" />
+</blockRegMap>
